@@ -24,4 +24,4 @@ downloading and running Yahoo API certificaitons
 downloading and running R, RStudio, and RTools
 
 Friday 12/9
-Lots of R learning
+Lots of R learning, tutorials and downloads, all day
