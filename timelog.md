@@ -25,3 +25,20 @@ downloading and running R, RStudio, and RTools
 
 Friday 12/9
 Lots of R learning, tutorials and downloads, all day
+Going through R tutorials. Trying to download and run other existing R projects.
+
+Friday 12/16
+Researching different web scrapers for different languages. specifically C# and Python
+
+Monday 12/19 11am to 8pm (EST)
+Running through scraping tutorials
+
+Tuesday 12/20 11am to 8pm (EST)
+Looking through html pages, configuring .NET, attempting to scrape
+
+Wednesday 12/21 8am to 8pm (EST)
+basic CSS, Coding, testing scraping functions
+
+Thursday 12/22 7am to 4pm (EST)
+coding, MVC, troubleshooting bugs
+

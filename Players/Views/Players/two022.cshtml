@@ -1,0 +1,31 @@
+@{
+  Layout = "_Layout";
+}
+    @* <p>this file is players/2022.cshtml</p> *@
+@using Ffplayer.Models;
+    <table>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Player</th>
+          <th>Position</th>
+          <th>Carries</th>
+          <th>Targets</th>
+          <th>Srimmage Yards</th>
+        </tr>
+      </thead>
+      <tbody>
+    
+     @foreach (Player temp in Model)
+    {
+      <tr>
+        <td>@temp.Rank</td>
+        <td>@Html.ActionLink($"{temp.Name}", "specificPlayer", new { Link = temp.Link })</td>
+        <td>@temp.Pos</td>
+        <td>@temp.Carries</td>
+        <td>@temp.Targets</td>
+        <td>@temp.Yards</td>
+      </tr>
+    }
+    </tbody>
+    </table>
