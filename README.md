@@ -15,7 +15,7 @@
 
 ## Description
 
-_This accplication runs a web scraper in order to pull information of fooball player's stats. The application will pull the data for either 2021 or 2022 stats. The players are sorted by how many scrimmage yards they achieved that year, and their position, carries and targets are also displayed. If you click on a player's name, the application will pull up that player's game stats for 2022.   
+_This accplication runs a web scraper in order to pull information of fooball player's stats. The application will pull the data for either 2021 or 2022 stats. The players are sorted by how many scrimmage yards they achieved that year, and their position, carries and targets are also displayed. If you click on a player's name, the application will pull up that player's game stats for 2022._   
 
 ## Setup/Installation Requirements
 
